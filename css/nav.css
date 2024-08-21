@@ -25,10 +25,11 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-700px, -210px);
+    transform: translate(-760px, -210px);
     color: white;
-    font-size: 28px;
+    font-size: 34px;
     font-weight: bold;
+    margin-left: 50px;
 }
 #join{
     color: #B0B0B0;
