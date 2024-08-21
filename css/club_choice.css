@@ -1,0 +1,11 @@
+.sorry {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 500px;
+    width: 100%;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,114 @@
+#cpu,#up{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    border: 5px solid #d9d9d9;
+    border-radius: 15px;
+    width: 700px;
+    margin: 25px auto;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 20px 20px 30px;
+}
+.pic_cpu,.pic_up{
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    margin-top: 15px;
+}
+.name{
+    margin: 15px 0px;
+    font-size: 18px;
+}
+.picture{
+    align-items: center;
+    border-radius: 20%;
+}
+.li{
+    border-radius: 50px;
+    font-size: 11px;
+    text-align: center;
+    margin-top: 5px;
+}
+.pic_cpu .li{
+    border: 2px solid #57EAD2;
+}
+.pic_up .li{
+    border: 2px solid #3165b0;
+}
+.pic{
+    margin:5px;
+}
+
+
+#cpu a{
+    color: #57EAD2;
+}
+#up a{
+    color: #3165b0;
+}
+.text{
+    font-size: 14px;
+    font-family: 'Noto Nastaliq Urdu',sans-serif;
+}
+p{
+    margin-bottom: 8px;
+}
+
+.footer {
+    border-top: #929292 solid;
+    border-top-width: 3px;
+    display: flex;
+    height: 220px;
+    width: 100%;
+    align-items: center;
+    font-size: 16px;
+    margin-top: 150px;
+}
+
+.footer-img {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.footer-text {
+    display: flex;
+}
+
+.footer-text2 {
+    display: flex;
+    flex-direction: column;
+    color: #929292;
+    gap: 16px;
+}
+
+.bar {
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #929292;
+    opacity: 57.25%;
+    font-weight: normal;
+}
+
+.bottom-space {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.minjae2{
+    font-weight: bold;
+    color: #008256;
+}
+.go_common{
+    text-decoration: none;
+}
+.cpu_link{
+    color: #57EAD2;
+    font-weight: bold;
+}
+.up_link{
+    color: #3165B0;
+    font-weight: bold;
+}

@@ -1,0 +1,77 @@
+#js{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center; 
+    border: 5px solid #d9d9d9;
+    border-radius: 15px;
+    width: 700px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.pic_collect{
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    margin-top: 15px;
+}
+.name{
+    margin: 15px 0px;
+    font-size: 18px;
+}
+.picture{
+    align-items: center;
+    border-radius: 20%;
+    margin-left: 45px;
+}
+.pic>.li{
+    border: 2px solid #4488f5;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+a{
+    text-decoration-line: none;
+    color: #4488f5;
+    font-weight: bold;
+}
+.text{
+    font-size: 14px;
+    font-family: "Noto Nastaliq Urdu",sans-serif;
+}
+.msg_link{
+    text-decoration-line: none;
+    color: #2AF599;
+    font-weight: bold;
+}
+.explan{
+    margin-bottom: 8px;
+}
+.pic>.li_msg{
+    border: 2px solid #2AF599;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.pic{
+    padding: 5px;
+}
+.am_link{
+    text-decoration-line: none;
+    color: #FF8DAF;
+    font-weight: bold;
+}
+.pic>.li_am{
+    border: 2px solid #FF8DAF;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}

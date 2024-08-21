@@ -1,0 +1,76 @@
+#school_name{
+    color: #008256;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: -1px;
+    margin-top: 10px;
+}
+.logo{
+    margin-left: 40px;
+    width: 70px;
+    margin-top: -10px;
+}
+#main_img{
+    width: 100%;
+    margin-bottom: -1px;
+}
+.top{
+    display: flex;
+    justify-content:space-between;  
+    margin-top: 10px;
+}
+.mirim_text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-700px, -210px);
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+#join{
+    color: #B0B0B0;
+    font-size: 12px;
+    margin-right: 15px;
+    margin-top: 16px;
+}
+#club{
+    padding-top: 20px;
+    font-size: 22px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    height: 122px;
+    background-color: #d9d9d9;
+    align-items: center;
+}
+.minjae1 {
+margin-top: -20px;
+}
+.minjae2 {
+margin-top: -20px;
+}
+.minjae3 {
+margin-top: -20px;
+}
+.minjae1:hover{
+    color: #008256;
+    font-weight: bold;
+}
+.minjae2:hover{
+    color: #008256;
+    font-weight: bold;
+}
+.minjae3:hover{
+    color: #008256;
+    font-weight: bold;
+}
+.choice{
+    text-decoration: none;
+}
+.common_link{
+    text-decoration: none;
+    color: #000;
+}

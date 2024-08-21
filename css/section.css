@@ -1,0 +1,140 @@
+#js{
+    display: flex;
+    align-items: center; 
+    border: 5px solid #d9d9d9;
+    border-radius: 15px;
+    width: 700px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+#js2{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    border: 5px solid #d9d9d9;
+    border-radius: 15px;
+    width: 700px;
+    margin: 20px auto;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.pic_collect{
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    margin-top: 15px;
+}
+.name{
+    margin: 15px 0px;
+    font-size: 18px;
+}
+.picture{
+    align-items: center;
+    border-radius: 20%;
+    margin-left: 45px;
+}
+.pic>.li{
+    border: 2px solid #4488f5;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.js_link{
+    color: #4488f5;
+    font-weight: bold;
+}
+.text{
+    font-size: 14px;
+    font-family: "Noto Nastaliq Urdu",sans-serif;
+}
+.msg_link{
+    color: #2AF599;
+    font-weight: bold;
+}
+.explan{
+    margin-bottom: 8px;
+}
+.pic>.li_msg{
+    border: 2px solid #2AF599;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.pic{
+    padding: 5px;
+}
+.am_link{
+    color: #FF8DAF;
+    font-weight: bold;
+}
+.pic>.li_am{
+    border: 2px solid #FF8DAF;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.topper_link{
+    color: #3FA2D7;
+    font-weight: bold;
+}
+.pic>.li_topper{
+    border: 2px solid #3FA2D7;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.wod_link{
+    color: #B6E4B5;
+    font-weight: bold;
+}
+.pic>.li_wod{
+    border: 2px solid #B6E4B5;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.mas_link{
+    color: #EE7A30;
+    font-weight: bold;
+}
+.pic>.li_mas{
+    border: 2px solid #EE7A30;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.miven_link{
+    color: #93A0D7;
+    font-weight: bold;
+}
+.pic>.li_miven{
+    border: 2px solid #93A0D7;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;    
+}
+.game_link{
+    color: #F5D522;
+    font-weight: bold;
+}
+.pic>.li_game{
+    border: 2px solid #F5D522;
+    border-radius: 100px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 5px;    
+}
+.minjae1{
+    font-weight: bold;
+    color: #008256;
+}
